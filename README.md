@@ -1,4 +1,4 @@
-# PCA-Introdu-o-Desenvolvimento-Software
+# PCA-Introducao ao Desenvolvimento-Software
 1 INTRODUÇÃO
 
 Trabalho da disciplina PCA: INTRODUCAO AO DESENVOLVIMENTO DE SISTEMAS para o Curso de Análise e Desenvolvimento de Sistemas da Universidade UNIGRANRIO, ministrada pelo professor Oswaldo Borges Peres.
